@@ -1,5 +1,5 @@
 # Welcome to GitHub Pages
-Owned by ALthea Mae C. Santiago
+Owned by Althea Mae C. Santiago
 
 You can use the [editor on GitHub](https://github.com/amcsantiago/amcsantiago.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
